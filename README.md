@@ -17,7 +17,7 @@ The only folder *pipeline* contains the devoloped code. We used the format **STA
 - **STAGE_2B_PART2_move_notcancer.py**: details the code developed to remove patches for which no cancer has been identified;
 - **STAGE_3_her2classify.py**: details the code developed to identify her2 in the extracted patches;
 - **STAGE_4_5A_generate_output.py**: details the code developed to compute the output using the majority vote method;
-- **STAGE_4_5B_tabular_model_generation.ipnb**: details the code developed to compute the output using the tabular classifier method.
+- **STAGE_4_5B_tabular_model_generation.ipynb**: details the code developed to compute the output using the tabular classifier method.
 
 ### Models
 
