@@ -12,12 +12,12 @@ In this section we detail the content of the repository.
 
 The only folder *pipeline* contains the devoloped code. We used the format **STAGE_number** to match each script with the corresponding stage in the developed pipeline. The folder contains the following scripts:
 
-- **STAGE_1_patch_extraction**: details the code developed to extract the patches of the given size from the slides;
-- **STAGE_2B_PART1_preclassify**: details the code developed to identify cancer in the extracted patches;
-- **STAGE_2B_PART2_move_notcancer**: details the code developed to remove patches for which no cancer has been identified;
-- **STAGE_3_her2classify**: details the code developed to identify her2 in the extracted patches;
-- **STAGE_4_5A_generate_output**: details the code developed to compute the output using the majority vote method;
-- **STAGE_4_5B_tabular_model_generation**: details the code developed to compute the output using the tabular classifier method.
+- **STAGE_1_patch_extraction.py**: details the code developed to extract the patches of the given size from the slides;
+- **STAGE_2B_PART1_preclassify.py**: details the code developed to identify cancer in the extracted patches;
+- **STAGE_2B_PART2_move_notcancer.py**: details the code developed to remove patches for which no cancer has been identified;
+- **STAGE_3_her2classify.py**: details the code developed to identify her2 in the extracted patches;
+- **STAGE_4_5A_generate_output.py**: details the code developed to compute the output using the majority vote method;
+- **STAGE_4_5B_tabular_model_generation.ipnb**: details the code developed to compute the output using the tabular classifier method.
 
 ### Models
 
