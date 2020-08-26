@@ -2,7 +2,7 @@
 This repository contains software developed to participate to the HEROHE Challenge (recognition of HER2 status from HE slides). 
 
 If you use the software, please cite it as:
-*La Barbera, D.; Polónia, A.; Roitero, K.; Conde-Sousa, E.; Della Mea, V. Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning. J. Imaging 2020, 6, 82.*
+*La Barbera, D.; Polónia, A.; Roitero, K.; Conde-Sousa, E.; Della Mea, V. Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning. J. Imaging 2020, 6, 82. https://doi.org/10.3390/jimaging6090082 *
 
 ## Content Description
 
