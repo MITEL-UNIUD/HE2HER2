@@ -1,7 +1,12 @@
 # HE2HER2
 This repository contains software developed to participate to the HEROHE Challenge (recognition of HER2 status from HE slides). 
 
-If you use the software, please cite it as:
+The data set is described in: 
+*Eduardo Conde-Sousa, João Vale, Ming Feng, Kele Xu, Yin Wang, Vincenzo Della Mea, David La Barbera, Ehsan Montahaei, Mahdieh Soleymani Baghshah, Andreas Turzynski, Jacob Gildenblat, Eldad Klaiman, Yiyu Hong, Guilherme Aresta, Teresa Araújo, Paulo Aguiar, Catarina Eloy, António Polónia. HEROHE Challenge: assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization.* https://arxiv.org/abs/2111.04738 .
+If you use it, please cite the paper.
+
+
+If you use this software, please cite it as:
 *La Barbera, D.; Polónia, A.; Roitero, K.; Conde-Sousa, E.; Della Mea, V. Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning. J. Imaging 2020, 6, 82.* https://doi.org/10.3390/jimaging6090082 
 
 ## Content Description
