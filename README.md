@@ -1,13 +1,14 @@
 # HE2HER2
 This repository contains software developed to participate to the HEROHE Challenge (recognition of HER2 status from HE slides). 
 
-The data set is described in: 
-*Eduardo Conde-Sousa, João Vale, Ming Feng, Kele Xu, Yin Wang, Vincenzo Della Mea, David La Barbera, Ehsan Montahaei, Mahdieh Soleymani Baghshah, Andreas Turzynski, Jacob Gildenblat, Eldad Klaiman, Yiyu Hong, Guilherme Aresta, Teresa Araújo, Paulo Aguiar, Catarina Eloy, António Polónia. HEROHE Challenge: assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization.* https://arxiv.org/abs/2111.04738 .
+The data set and the challenge are described in: 
+Conde-Sousa E, Vale J, Feng M, Xu K, Wang Y, Mea VD, Barbera DL, Montahaei E, Baghshah M, Turzynski A, Gildenblat J, Klaiman E, Hong Y, Aresta G, Araújo T, Aguiar P, Eloy C, Polónia A. HEROHE Challenge: Predicting HER2 Status in Breast Cancer from Hematoxylin–Eosin Whole-Slide Imaging. *Journal of Imaging.* 2022; 8(8):213. https://doi.org/10.3390/jimaging8080213
+
 If you use it, please cite the paper.
 
 
 If you use this software, please cite it as:
-*La Barbera, D.; Polónia, A.; Roitero, K.; Conde-Sousa, E.; Della Mea, V. Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning. J. Imaging 2020, 6, 82.* https://doi.org/10.3390/jimaging6090082 
+La Barbera D, Polónia A, Roitero K, Conde-Sousa E, Della Mea V. Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning. *Journal of Imaging.* 2020; 6(9):82. https://doi.org/10.3390/jimaging6090082 
 
 ## Content Description
 
